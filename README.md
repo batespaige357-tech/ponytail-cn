@@ -2,9 +2,7 @@
 
 **用最少的新代码，把整个问题解决。**
 
-基于 [dietrichgebert/ponytail](https://github.com/dietrichgebert/ponytail) 的小幅中文适配。独立维护、非官方。
-
-## 保留上游核心
+## 功能与流程
 
 先读调用方与现有结构，再复用已有代码、标准库和已安装依赖。保留最小完整改动、lite/full/ultra 三档、必要校验与错误处理，以及对未检查内容的简短说明。
 
@@ -27,7 +25,9 @@ npx skills add batespaige357-tech/ponytail-cn --skill ponytail-cn
 
 本项目只提供基础编码风格 Skill，不打包上游 hooks、插件运行时、审计或 review 等其他技能。基础核心正文完整保留，不依赖安装完整 Ponytail 插件。没有脚本、示例网页或效果截图。
 
-## 来源与检查
+## 来源与许可
+
+基于 [dietrichgebert/ponytail](https://github.com/dietrichgebert/ponytail)，由本仓库维护。
 
 MIT，保留 DietrichGebert 版权和完整许可证。版本与改动见 [CHANGES.md](CHANGES.md)。
 

@@ -13,3 +13,8 @@ Recent-interest evidence: https://www.skills.sh/trending checked 2026-11-16T23:4
 Candidate note: design-doc-mermaid was considered; its README states MIT but the clone lacks a full copyright/license file. Chose this separately trending, fully licensed skill for unambiguous copyright packaging.
 
 Validation: original-body exact retention, UTF-8, local Markdown links, skill frontmatter and original MIT license. No real assistant coding/mode-switch benchmark, runtime tests or frontend build. No token or code-volume reduction claim for this adaptation.
+
+
+## 2026-11-18 · 文档表达更新
+
+README 优先展示用途、功能与用法；来源信息集中到来源与许可部分，精简技能入口中的重复声明。核心工作流、参考内容、版权和许可证保持不变。

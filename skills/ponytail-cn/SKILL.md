@@ -55,7 +55,7 @@ Never cut: validation at trust boundaries, error handling that prevents data los
 
 ## 中文控制与交付 — ponytail-cn 新增
 
-独立社区适配，保留上游的最小完整改动原则和三个档位，不代表 Ponytail 原作者官方。
+保留上游的最小完整改动原则和三个档位。
 
 - 用户明确说“开启 ponytail-cn／少写代码模式”时，默认 full；“轻量档／完整档／严格档”分别映射 lite／full／ultra。原有英文档位保留。
 - “退出 ponytail-cn／正常模式／stop ponytail／normal mode”关闭此模式；“当前档位”只查询，不启用。没有宿主状态时，仅根据本会话推断，不声称写入全局配置。
